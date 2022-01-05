@@ -1,4 +1,6 @@
 # Teste Viagens
 
 ### Como rodar?
-Clonar repositório e executar o Documento Viagens.java
+- Clonar repositório
+- Abrir Pasta
+- Executar o Documento Viagens.java
